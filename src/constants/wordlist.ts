@@ -1,5 +1,6 @@
 export const WORDS = [
   'ātura',
+  'atura',
   'kaññā',
   'usabha',
   'bhāgya',
